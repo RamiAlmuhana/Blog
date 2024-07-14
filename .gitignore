@@ -1,0 +1,12 @@
+postgres-data
+
+frontend/.angular
+frontend/node_modules
+frontend/dist
+frontend/src/environments
+frontend/.vscode
+
+.idea
+backend/.mvn
+backend/target
+#backend/src/main/resources
